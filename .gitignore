@@ -40,4 +40,4 @@ target
 *.tar.gz
 
 package-lock.json
-
+.vscode
